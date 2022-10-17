@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    background-color: #3b7254;
+}
+
+canvas {
+    background-color: #FFFFFF;
+    background-image: url(../img/quadra.png);
+    margin-top: 100px;
+    border-style: solid;
+    border-width: 50px;
+}

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="../CSS/menu-style.css">
+        <title>Document</title>
+    </head>
+    <body>
+        <div class="container-1">
+            <h1>Air Hockey</h1>
+                <div class="container">
+                  <script src="../JS/save.js"></script>
+                  <label for="velocidade">Escolha a velocidade do disco</label>
+                  <select name="velocidade" id="velocidade">
+                    <option value="4" onclick="setSpeed(4)">1</option>
+                    <option value="5" onclick="setSpeed(5)">2</option>
+                    <option value="6" onclick="setSpeed(6)">3</option>
+                </select>
+                    <ul class="nav">
+                        <li class="btn" onclick="window.location.href ='index.html'">Jogador Amador</li>
+                        <li class="btn avançado" onclick="window.location.href ='index.html'">Jogador Avançado</li>
+                        <li class="btn" onclick="window.location.href = 'about.html'">Sobre</li>
+                    </ul>
+                </div>
+                <!-- <div>
+                    <select name="velocidade">
+                        <option value="4" onclick="setSpeed(4)">4</option>
+                        <option value="5" onclick="setSpeed(5)">5</option>
+                        <option value="6" onclick="setSpeed(40)">6</option>
+                    </select>
+                </div> -->
+        </div>
+    </body>
+</html>
