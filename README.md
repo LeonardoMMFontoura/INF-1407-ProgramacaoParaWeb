@@ -4,7 +4,11 @@ Repositório da matéria de Programacao Para Web
 Relatório do primeiro projeto de [INF-1407] Programação para web 
 Alunos: Leonardo Monteiro Mastra Fontoura e Ian Geraldi Cordeiro 
 
-Jogo de Air Hockey Título do jogo: Air Hockey Jogo desenvolvido para navegadores web
+Jogo de Air Hockey 
+
+Título do jogo: Air Hockey 
+
+Jogo desenvolvido para navegadores web
 
 O que foi feito: Todo o jogo está jogável e completo. Entretanto, vale ressaltar que alguns dos requisitos estão faltando. Entre eles:
 
