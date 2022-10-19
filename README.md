@@ -14,6 +14,8 @@ O que foi feito: Todo o jogo está jogável e completo. Entretanto, vale ressalt
 
 - A identificação de usuário está sendo feita corretamente, com a expressão regular funcionando. Essa identificação é necessária apenas para o início do jogo, e a informação provida não é guardada.
 - Não houve necessidade no jogo de manipular dois objetos do tipo imagem diferentes, então essa parte acabamos não fazendo.
+- Apesar de termos colocado o select, depois vimos que não estava funcionando corretamente.
+- Não conseguimos disponibilizar o site online.
 
 Fluxo de jogo
 
